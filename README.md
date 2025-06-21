@@ -35,7 +35,6 @@
 ### ☁️ DevOps / Tools
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![WinSCP](https://img.shields.io/badge/WinSCP-008000?style=for-the-badge)
-![mRemoteNG](https://img.shields.io/badge/mRemoteNG-2D2D2D?style=for-the-badge)
 
 
 ---
