@@ -8,7 +8,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhdevnsg01&show_icons=true&theme=radical)
 ## 🧠 My Skills
 
 ### 💻 Frontend Development  
