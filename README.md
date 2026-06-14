@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About me
 
-- 👨‍💻 Passionate about Software Development, with a strong interest in DSA.** Qualified GATE 2025** with a solid foundation in CS fundamentals.
+- 👨‍💻 Passionate about Software Development, with a strong interest in DSA.** Qualified GATE 2025&&2026** with a solid foundation in CS fundamentals.
 - 📬 Feel free to **reach me out** ! [Email](mailto:iamshubhamsingh26@gmail.com)
 
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
